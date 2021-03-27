@@ -1,0 +1,25 @@
+.Videos{
+    height:500px;
+    border: 1px solid #ccc;
+}
+.Videos:hover{
+    border: 1px solid #333;
+}
+.title{
+    height: 20%;
+}
+.Videos h3:hover{
+    cursor:pointer
+}
+.Videos span{
+    font-size: 1.2em;
+    
+}
+.Videos span:hover{
+    font-size: 1.5em;
+    cursor:pointer
+}
+.des{
+    height: 10%;
+    padding-top: 10px;
+}
